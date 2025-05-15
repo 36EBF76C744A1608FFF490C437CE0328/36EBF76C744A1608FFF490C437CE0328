@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**36EBF76C744A1608FFF490C437CE0328/36EBF76C744A1608FFF490C437CE0328** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Nishanthi/36EBF76C744A1608FFF490C437CE0328** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
